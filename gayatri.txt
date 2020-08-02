@@ -1,0 +1,12 @@
+
+Name:gayatri
+Account: 2
+Address: osmanabad
+Balance: 20000
+Transaction:
+*******************
+Date 		Amount		TransactionType 	Balance
+
+2020-08-02	20000		deposit			20000
+2020-08-02	200		deposit			20200
+2020-08-02	200		withdrawal		20000
